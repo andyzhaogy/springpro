@@ -415,3 +415,16 @@ Caused by: org.thymeleaf.exceptions.TemplateProcessingException: Could not bind 
 14:34:45.158 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
 14:34:45.179 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
 14:34:45.187 [main] INFO  com.csljc.app.MainApplication - Started MainApplication in 3.028 seconds (JVM running for 3.571)
+19:07:20.023 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.4.Final
+19:07:20.238 [main] INFO  com.csljc.app.MainApplication - Starting MainApplication on MyComputer with PID 20464 (D:\javaworkspace\SpringBootPro\target\classes started by zhaogaoyang in D:\javaworkspace\SpringBootPro)
+19:07:20.242 [main] INFO  com.csljc.app.MainApplication - No active profile set, falling back to default profiles: default
+19:07:29.719 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+19:07:29.740 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+19:07:29.740 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+19:07:29.740 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+19:07:30.007 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+19:07:30.008 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 9550 ms
+19:07:30.672 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+19:07:31.269 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+19:07:31.375 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+19:07:31.405 [main] INFO  com.csljc.app.MainApplication - Started MainApplication in 14.041 seconds (JVM running for 16.9)
