@@ -8,6 +8,7 @@ public class MainApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(com.csljc.controller.LoginController.class, args);
+
     }
 }
 
