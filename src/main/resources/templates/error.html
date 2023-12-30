@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Error</title>
+</head>
+<body>
+<h1>Error</h1>
+<p>Sorry, an error occurred.</p>
+<p th:if="${#fields.hasErrors()}">
+    Please check the form for errors.
+</p>
+<p th:if="${param.error}">
+    Login failed. Please check your username and password.
+</p>
+<p th:if="${param.logout}">
+    You have been logged out successfully.
+</p>
+<a th:href="@{/login}">Go back to login</a>
+</body>
+</html>
