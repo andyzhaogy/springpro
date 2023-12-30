@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bf6347d-d1ec-4e1d-9b34-b623d16eea10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/csljc/app/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/csljc/app/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/csljc/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/csljc/controller/LoginController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +50,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -99,7 +98,7 @@
       <workItem from="1702385029883" duration="27000" />
       <workItem from="1702385071399" duration="610000" />
       <workItem from="1703653019676" duration="551000" />
-      <workItem from="1703917978013" duration="7424000" />
+      <workItem from="1703917978013" duration="9573000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交代码">
       <created>1703932227473</created>
@@ -136,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703932824155</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="second">
+      <created>1703937718026</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703937718026</updated>
+    </task>
+    <task id="LOCAL-00007" summary="second">
+      <created>1703937794010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703937794010</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,17 +158,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交代码" />
     <MESSAGE value="frister" />
-    <option name="LAST_COMMIT_MESSAGE" value="frister" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
   <component name="WindowStateProjectService">
     <state x="481" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1700024709926">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="481" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1493.885@0.0.1493.885" timestamp="1700024709926" />
-    <state x="356" y="36" key="CommitChangelistDialog2" timestamp="1703937717270">
+    <state x="356" y="36" key="CommitChangelistDialog2" timestamp="1703946210530">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="356" y="36" key="CommitChangelistDialog2/0.0.1493.885/-3840.0.3840.2112@0.0.1493.885" timestamp="1703937717270" />
+    <state x="356" y="36" key="CommitChangelistDialog2/0.0.1493.885/-3840.0.3840.2112@0.0.1493.885" timestamp="1703946210530" />
     <state x="528" y="148" key="FileChooserDialogImpl" timestamp="1703932483293">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
@@ -184,15 +198,15 @@
     </state>
     <state width="1439" height="207" key="GridCell.Tab.0.right/0.0.1493.885/-3840.0.3840.2112@0.0.1493.885" timestamp="1703934434342" />
     <state width="1435" height="207" key="GridCell.Tab.0.right/0.0.1493.885@0.0.1493.885" timestamp="1700044897245" />
-    <state x="249" y="35" key="SettingsEditor" timestamp="1703934407546">
+    <state x="249" y="35" key="SettingsEditor" timestamp="1703943237052">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="249" y="35" key="SettingsEditor/0.0.1493.885/-3840.0.3840.2112@0.0.1493.885" timestamp="1703934407546" />
+    <state x="249" y="35" key="SettingsEditor/0.0.1493.885/-3840.0.3840.2112@0.0.1493.885" timestamp="1703943237052" />
     <state x="249" y="35" key="SettingsEditor/0.0.1493.885@0.0.1493.885" timestamp="1702385085932" />
-    <state x="339" y="176" key="Vcs.Push.Dialog.v2" timestamp="1703932925637">
+    <state x="339" y="176" key="Vcs.Push.Dialog.v2" timestamp="1703946219597">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="339" y="176" key="Vcs.Push.Dialog.v2/0.0.1493.885/-3840.0.3840.2112@0.0.1493.885" timestamp="1703932925637" />
+    <state x="339" y="176" key="Vcs.Push.Dialog.v2/0.0.1493.885/-3840.0.3840.2112@0.0.1493.885" timestamp="1703946219597" />
     <state x="431" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1703918041927">
       <screen x="0" y="0" width="1493" height="885" />
     </state>

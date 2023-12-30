@@ -24,6 +24,7 @@ public class LoginController {
     public String loginSubmit(@RequestParam String username, @RequestParam String password) {
         // 这里可以加入登录验证的逻辑，例如查询数据库等
         logger.info("Attempting login for user: {}", username);
+        logger.info("Attempting login for user: {}", password);
         if ("user".equals(username) && "password".equals(password)) {
             return "redirect:success";
         } else {
